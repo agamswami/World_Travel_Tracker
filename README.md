@@ -45,7 +45,7 @@ A full-stack web application built with **Node.js**, **Express**, **PostgreSQL**
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/world-travel-tracker.git
+git clone https://github.com/agamswami/World_Travel_Tracker.git
 cd world-travel-tracker
 ```
 
